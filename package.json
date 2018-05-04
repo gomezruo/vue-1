@@ -1,0 +1,12 @@
+{
+  "name": "vue-1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vue": "~2.5.16",
+    "webpack": "~4.7.0"
+  }
+}
